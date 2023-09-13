@@ -5,5 +5,4 @@ dist/
 output/
 
 mailing_results.txt
-export_ontu.xml
-export_ontu copy.xml
+*.xml
